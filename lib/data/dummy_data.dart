@@ -4,7 +4,7 @@ import '../models/message_model.dart';
 final List<UserModel> dummyUsers = [
   UserModel(
     id: '1',
-    name: 'Alice Johnson',
+    name: 'Niranjan',
     avatarUrl: 'https://randomuser.me/api/portraits/women/1.jpg',
     isOnline: true,
   ),
